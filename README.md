@@ -1,2 +1,5 @@
 # goit-markup-hw-01
-HTML+CSS  courses 
+
+HTML+CSS courses
+
+Git status
